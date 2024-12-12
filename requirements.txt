@@ -2,7 +2,7 @@ streamlit
 pandas
 plotly
 nltk
-transformers
+transformers==4.33.2
 torch
 wordcloud
 matplotlib
